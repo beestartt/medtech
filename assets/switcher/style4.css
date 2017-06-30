@@ -1,0 +1,59 @@
+#style-switcher h2 a {
+    background: #069A97 none repeat scroll 0 0
+}
+
+
+.dot1 {
+    background-color: #207FDC;
+}
+.logo a p {
+    border: 2px solid #069A97;
+}
+
+.mainmenu ul.nav.navbar-nav li.active::before,
+.section-title h2::before,
+.team-description,
+.pricing-header,
+.contact-details-area,
+.scrollup, a.slide-btn.other-btn:hover, .owl-theme .owl-controls .owl-page span, .carousel-indicators li {
+    background: #069A97;
+}
+
+.header-text p span,
+.about-text h2,
+.single-service.single-service:hover h4,
+.about-icon i,
+.single-about.single-about:hover h4,
+.single-project-complete i,
+.appoinment-text h2,
+.appoinment-form h3,
+.testi-name h2,
+.footer-social-link ul li a:hover,
+.preloader i, .single-team p i, .slider-control{
+    color: #069A97;
+}
+
+a.slide-btn {
+    border: 1px solid #069A97;
+    background: #069A97;
+}
+
+.single-service i,
+.call-to-area-text a,
+.appoinment-form input[type="submit"],
+a.price-more,
+.contact-form input[type="submit"] {
+    background: #069A97;
+    border: 1px solid #069A97;
+}
+
+a.slide-btn:hover, .call-to-area-text a:hover, .appoinment-form input[type="submit"]:hover, a.price-more:hover, .contact-form input[type="submit"]:hover{
+	border: 1px solid #069A97;
+}
+.single-service.single-service:hover i {
+	color: #069A97;
+	border: 1px solid #069A97;
+}
+.form-control:focus {
+	border-color: #069A97;
+}
