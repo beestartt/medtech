@@ -133,7 +133,7 @@ fieldset {
     top: 55px;
     height: 2px;
     width: 74px;
-    background: #207FDC;
+    background: #145492;
     content: "";
     margin-left: -37px;
     z-index: 1;
@@ -144,7 +144,7 @@ a.read-more {
     display: inline-block;
     color: #333;
     padding: 10px 25px;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     text-transform: uppercase;
     font-size: 12px;
     background: transparent;
@@ -154,8 +154,8 @@ a.read-more:hover {
     color: #fff;
     -webkit-transition: .3s;
     transition: .3s;
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
 }
 
 .scrollup {
@@ -172,7 +172,7 @@ a.read-more:hover {
     cursor: pointer;
     display: none;
     z-index: 2;
-    background: #207FDC;
+    background: #145492;
 }
 
 .scrollup:hover {
@@ -227,7 +227,7 @@ a.read-more:hover {
 }
 
 .dot1 {
-    background-color: #207FDC;
+    background-color: #145492;
 }
 
 .dot2 {
@@ -335,7 +335,7 @@ a.read-more:hover {
 }
 
 .header-text p span {
-    color: #207FDC;
+    color: #145492;
     text-transform: uppercase;
     font-size: 16px;
     letter-spacing: 3px;
@@ -365,7 +365,7 @@ a.read-more:hover {
     font-weight: 700;
     color: #fff;
     letter-spacing: 5px;
-    border: 2px solid #207FDC;
+    border: 2px solid #145492;
     padding: 2px 5px;
     display: inline-block;
 }
@@ -409,7 +409,7 @@ a.read-more:hover {
     width: 100%;
     position: absolute;
     content: "";
-    background: #207FDC;
+    background: #145492;
     color: #333;
 }
 
@@ -452,8 +452,8 @@ a.slide-btn {
     padding: 12px 25px;
     text-transform: capitalize;
     font-size: 14px;
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
     border-radius: 30px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -462,7 +462,7 @@ a.slide-btn {
 a.slide-btn:hover {
     background: transparent;
     color: #fff;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -472,7 +472,7 @@ a.slide-btn.other-btn {
 }
 
 a.slide-btn.other-btn:hover {
-    background: #207FDC;
+    background: #145492;
 }
 
 
@@ -621,7 +621,7 @@ a.slide-btn.other-btn:hover {
     background: #fff;
     border: 1px solid #fff;
     border-radius: 50%;
-    color: #207FDC;
+    color: #145492;
     font-size: 24px;
     width: 40px;
     height: 40px;
@@ -639,7 +639,7 @@ a.slide-btn.other-btn:hover {
     background: transparent;
     border: 1px solid #fff;
     border-radius: 50%;
-    color: #207FDC;
+    color: #145492;
 }
 
 .carousel-indicators li {
@@ -647,7 +647,7 @@ a.slide-btn.other-btn:hover {
     height: 4px;
     border-radius: 4px;
     margin: 0;
-    background: #207FDC;
+    background: #145492;
     border: none;
 }
 
@@ -712,7 +712,7 @@ a.slide-btn.other-btn:hover {
     text-transform: capitalize;
     letter-spacing: 3px;
     font-weight: 600;
-    color: #207FDC;
+    color: #145492;
 }
 
 .about-text h2 span {
@@ -753,14 +753,14 @@ a.slide-btn.other-btn:hover {
 }
 
 .single-service:hover.single-service h4 {
-    color: #207FDC;
+    color: #145492;
     transition: .3s;
 }
 
 .single-service:hover.single-service i {
-    color: #207FDC;
+    color: #145492;
     background: #fff;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     transition: .3s;
 }
 
@@ -775,13 +775,13 @@ a.slide-btn.other-btn:hover {
 .single-service i {
     color: #fff;
     font-size: 40px;
-    background: #207FDC;
+    background: #145492;
     height: 100px;
     width: 100px;
     border-radius: 50%;
     line-height: 100px;
     transition: .3s;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
 }
 
 .single-service p {
@@ -811,7 +811,7 @@ a.slide-btn.other-btn:hover {
 }
 
 .single-about:hover.single-about h4 {
-    color: #207FDC;
+    color: #145492;
 }
 
 .why-image {
@@ -827,7 +827,7 @@ a.slide-btn.other-btn:hover {
 
 .about-icon i {
     font-size: 30px;
-    color: #207FDC;
+    color: #145492;
 }
 
 .single-about p {
@@ -881,8 +881,8 @@ a.slide-btn.other-btn:hover {
     padding: 12px 25px;
     text-transform: capitalize;
     font-size: 14px;
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
     border-radius: 30px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -891,7 +891,7 @@ a.slide-btn.other-btn:hover {
 .call-to-area-text a:hover {
     background: transparent;
     color: #fff;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -960,7 +960,7 @@ a.slide-btn.other-btn:hover {
 
 .single-project-complete i {
     font-size: 60px;
-    color: #207FDC;
+    color: #145492;
 }
 
 .single-project-complete h2 {
@@ -1022,7 +1022,7 @@ a.slide-btn.other-btn:hover {
     font-weight: 600;
     margin-bottom: 30px;
     margin-top: 0;
-    color: #207FDC;
+    color: #145492;
 }
 
 .appoinment-form h3 {
@@ -1031,7 +1031,7 @@ a.slide-btn.other-btn:hover {
     font-weight: 600;
     margin-bottom: 30px;
     margin-top: 0;
-    color: #207FDC;
+    color: #145492;
 }
 
 .appoinment-form input[type="submit"] {
@@ -1042,8 +1042,8 @@ a.slide-btn.other-btn:hover {
     padding: 12px 25px;
     text-transform: capitalize;
     font-size: 14px;
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
     border-radius: 30px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -1056,7 +1056,7 @@ a.slide-btn.other-btn:hover {
 .appoinment-form input[type="submit"]:hover {
     background: transparent;
     color: #000;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -1082,7 +1082,7 @@ a.slide-btn.other-btn:hover {
 
 .single-team h4 {
     margin: 0;
-    font-size: 20px;
+    font-size: 15px;
     text-transform: capitalize;
     font-weight: 700;
 }
@@ -1102,7 +1102,7 @@ a.slide-btn.other-btn:hover {
 
 .single-team p i {
     background: #fff;
-    color: #207FDC;
+    color: #145492;
     height: 40px;
     width: 40px;
     text-align: center;
@@ -1116,7 +1116,7 @@ a.slide-btn.other-btn:hover {
     position: absolute;
     left: 0;
     bottom: 0;
-    background: #207FDC;
+    background: #145492;
     width: 100%;
     padding: 20px 30px;
     transition: .3s;
@@ -1222,7 +1222,7 @@ a.slide-btn.other-btn:hover {
     text-transform: capitalize;
     font-weight: 600;
     transition: .3s;
-    color: #207FDC;
+    color: #145492;
 }
 
 .testi-name h3 {
@@ -1244,8 +1244,8 @@ a.slide-btn.other-btn:hover {
     filter: Alpha(Opacity=50);
     opacity: .5;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
 }
 
 
@@ -1274,7 +1274,7 @@ a.slide-btn.other-btn:hover {
 }
 
 .pricing-header {
-    background: #207FDC;
+    background: #145492;
     padding: 20px;
     color: #fff;
 }
@@ -1308,8 +1308,8 @@ a.price-more {
     padding: 10px 25px;
     text-transform: capitalize;
     font-size: 14px;
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
     border-radius: 30px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -1319,7 +1319,7 @@ a.price-more {
 a.price-more:hover {
     background: transparent;
     color: #000;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -1383,7 +1383,7 @@ a.price-more:hover {
 }
 
 .form-control:focus {
-    border-color: #207FDC;
+    border-color: #145492;
     outline: 0;
     box-shadow: none;
     color: #fff;
@@ -1398,8 +1398,8 @@ a.price-more:hover {
     padding: 10px 25px;
     text-transform: capitalize;
     font-size: 14px;
-    border: 1px solid #207FDC;
-    background: #207FDC;
+    border: 1px solid #145492;
+    background: #145492;
     border-radius: 30px;
     font-weight: 600;
     letter-spacing: 1px;
@@ -1408,7 +1408,7 @@ a.price-more:hover {
 .contact-form input[type='submit']:hover {
     background: transparent;
     color: #fff;
-    border: 1px solid #207FDC;
+    border: 1px solid #145492;
     -webkit-transition: .3s;
     transition: .3s;
 }
@@ -1449,7 +1449,7 @@ a.price-more:hover {
 */
 
 .contact-details-area {
-    background: #207FDC;
+    background: #145492;
 }
 
 .single-contact-details {
@@ -1521,5 +1521,17 @@ a.price-more:hover {
 }
 
 .footer-social-link ul li a:hover {
-    color: #207FDC;
+    color: #145492;
+}
+
+.logoimg {
+    height: 5% !important;
+    width: 15% !important;
+}
+
+
+
+.colores{
+
+    color:#ffffff !important;
 }
